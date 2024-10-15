@@ -1,3 +1,3 @@
-# Coding project of Mimo app 
-www.mimo.org
-## linktree https://efedevdaniel.github.io/Mimo/Linktree/index.html
+# Coding project of [Mimo](https://mimo.org/) app/web.
+## Linktree
+This site was built using GitHub Pages [Linktree](https://pages.github.com/).
