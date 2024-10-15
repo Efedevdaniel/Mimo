@@ -1,34 +1,39 @@
-body {
-font-family: "Lucida console", "Courier New", monospace;
-            font-weight: bolder;        
-            font-style: italc;
-            background-size: cover;
-            height: 100vh;
- 
-            color: white;
-background-color: wheat;
-color: slateblue ;
-}
-input,select {
-display: inline-block;
-border-radius: 20px;
-}
-button {
-display: inline-block;
-width: 40vh;
-margin: 3%;
-border-radius:20px ;
-}
-h1 {
- padding: 10px;
- background-color: yellow;
- border-radius: 60px;
-}
-p {
- background-color: navy;
- color: white;
- width: 100%;
- height: auto;
- padding-bottom: 10px;
- border-radius:0 20px 20px 20px ;
-}
+body{
+    font-family: "Lucida console","Courier New",monospace;
+    font-weight: bolder;
+    font-style: italc;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    background-color: wheat;
+    color: slateblue;
+    }
+
+input,select{
+    display: inline-block;
+    border-radius: 20px;
+    }
+
+button{
+    display: inline-block;
+    width: 40vh;
+    margin: 3%;
+    border-radius: 20px;
+    }
+
+h1{
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 60px;
+    }
+
+p{
+    background-color: navy;
+    color: white;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    }
+
