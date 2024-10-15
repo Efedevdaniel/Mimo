@@ -1,2 +1,2 @@
 # Mimo
-Coding project of 
+Coding project of Mimo app www.mimo.org
