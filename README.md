@@ -1,3 +1,4 @@
 # Coding project of [Mimo](https://mimo.org/) app/web.
-## Linktree
-This site was built using GitHub Pages [Linktree](https://pages.github.com/).
+## Projects
+These sites was built using GitHub Pages
+### 1. [Linktree](https://pages.github.com/)
