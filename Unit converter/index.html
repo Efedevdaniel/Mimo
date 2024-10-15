@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mr X">
+	  <meta name="keywords" content="Unit Converter">
+  	<meta name="author" content="Mr X">
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/2696.svg" type="image/x-icon">
+</head>
+<body>
+    <h1>Unit Converter</h1>
+    <input placeholder="Enter number..." id="userInput" type="number">
+    <select aria-label="Kilometers to Miles" id="unit">
+        <option value="milesToKm">Miles to Kilometers</option>
+        <option value="kmToMiles">Kilometers to Miles</option>
+    </select>
+    <button onclick="convert()">Convert</button>
+    <p><span id="resultElement">0</span></p>
+    <script src="script.js"> </script>
+</body>
+</html>
