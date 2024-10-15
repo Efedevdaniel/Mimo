@@ -10,9 +10,16 @@ function displayName() {
   "Opay<br>8086959894";
 }
 
+function displayName() {
+ document.getElementById(
+   "name").innerHTML =
+  "Welcome";
+}
+
 function displayError() {
  document.getElementById(
-  "message").innerHTML = "Wema<br>0291725471";
+   "message").innerHTML =
+  "Wema<br> 0291725471";
 }
 document.getElementById("photo")
  .addEventListener("touchstart",
