@@ -1,0 +1,2 @@
+# Mimo
+Coding project of 
